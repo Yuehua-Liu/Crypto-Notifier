@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# *******************
+# *** self define ***
+# *******************
+
+# private info
+private/
+pwd.txt
+key.txt
+
+# signal dir
+signal/*
+
+# price stream
+*_price.txt
+
+# test file
+test*.py
+
+# other
+*.whl
